@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcelmaatkamp
-- 👀 I’m interested in ... kafka/rabbitmq/spring-boot/dbt/materialized/metabase
-- 🌱 I’m currently learning ... everything!! :)
-- 💞️ I’m looking to collaborate on ... all things data!
+- 👀 I’m interested in ... [ minio / kafka / rabbitmq / spring-boot / dbt / materialized / metabase / liquidbase ]
+- 🌱 I’m currently learning ... data-science
+- 💞️ I’m looking to collaborate on ... making the above stack even more awesome!
 - 📫 How to reach me ... m.maatkamp@gmail.com
 
 <!---
