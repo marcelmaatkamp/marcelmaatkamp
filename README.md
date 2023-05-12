@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcelmaatkamp
+- 👋 Hi, I’m @marcelmaatkamp, Software Developer. Data Engineer, MLOPs,
 - 👀 I’m interested in ... [ minio / kafka / rabbitmq / spring-boot / dbt / materialized / metabase / liquidbase ]
 - 🌱 I’m currently learning ... data-science
 - 💞️ I’m looking to collaborate on ... making the above stack even more awesome!
